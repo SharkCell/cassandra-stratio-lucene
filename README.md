@@ -25,6 +25,7 @@ Docker recipe for an extension to the official [cassandra](https://hub.docker.co
 -	`2.1.12.0`
 -	`2.1.11.1`
 -	`2.1.10.0`
+-	`2.1.8.6`
 
 ### Documentation
 
