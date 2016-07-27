@@ -7,7 +7,7 @@ Docker recipe for an extension to the official [cassandra](https://hub.docker.co
 
 -	`3.7`, `3.7.0`, `latest`, ([3.7/Dockerfile](https://github.com/SharkCell/cassandra-stratio-lucene/blob/v3.7.x/Dockerfile)\)
 -	`3.5`, `3.5.2`, ([3.5/Dockerfile](https://github.com/SharkCell/cassandra-stratio-lucene/blob/v3.5.x/Dockerfile)\)
--	`3.0`, `3.0.7.1`, ([3.0/Dockerfile](https://github.com/SharkCell/cassandra-stratio-lucene/blob/v3.0.x/Dockerfile)\)
+-	`3.0`, `3.0.7.2`, ([3.0/Dockerfile](https://github.com/SharkCell/cassandra-stratio-lucene/blob/v3.0.x/Dockerfile)\)
 -	`2.2`, `2.2.7.1`, ([2.2/Dockerfile](https://github.com/SharkCell/cassandra-stratio-lucene/blob/v2.2.x/Dockerfile)\)
 -	`2.1`, `2.1.15.0`, ([2.1/Dockerfile](https://github.com/SharkCell/cassandra-stratio-lucene/blob/v2.1.x/Dockerfile)\)
 
@@ -15,6 +15,7 @@ Docker recipe for an extension to the official [cassandra](https://hub.docker.co
 
 -	`3.5.1`
 -	`3.5.0`
+-	`3.0.7.1`
 -	`3.0.7.0`
 -	`3.0.6.3`
 -	`3.0.6.2`
