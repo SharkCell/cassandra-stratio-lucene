@@ -5,4 +5,4 @@ RUN apt-get update && apt-get install --yes curl
 
 # Add cassandra-lucene-index jar from maven
 RUN cd /usr/share/cassandra/lib && \
-  curl -LO http://search.maven.org/remotecontent?filepath=com/stratio/cassandra/cassandra-lucene-index-plugin/3.0.8.0/cassandra-lucene-index-plugin-3.0.8.0.jar
+  curl -LO http://search.maven.org/remotecontent?filepath=com/stratio/cassandra/cassandra-lucene-index-plugin/3.0.8.1/cassandra-lucene-index-plugin-3.0.8.1.jar
