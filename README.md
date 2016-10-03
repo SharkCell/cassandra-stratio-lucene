@@ -13,7 +13,7 @@ Docker recipe for an extension to the official [cassandra](https://hub.docker.co
 
 ### Older tags
 
--	`3.0.7.2`
+-	`3.0.7.3`
 -	`3.0.6.3`
 -	`3.0.5.2`
 -	`3.0.4.1`
